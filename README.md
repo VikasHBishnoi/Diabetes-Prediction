@@ -71,7 +71,7 @@ The model implementation is based on the concepts and techniques learned from va
 
 ## Contact
 
-For any questions or inquiries, please contact [your email address].
+For any questions or inquiries, please contact vikasbishnoi992858@gmail.com .
 
 
 
